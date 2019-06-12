@@ -112,6 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+figs/*
+
 data/IPP3_expdetails.xlsx
 data/MED-PC datafile/!2019-02-22_08h59m.Subject IPP3.1
 data/MED-PC datafile/!2019-02-22_08h59m.Subject IPP3.2
